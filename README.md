@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+My name is **Mathew** and I am a 4th year Computing Science student at SFU
+I’m currently working on improving my skills with **Full Stack Development**. 
+Feel free to visit my projects!
 
 <!--
 **mathewtse/mathewtse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
