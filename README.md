@@ -1,7 +1,7 @@
 ### Hi there 👋 
 My name is **Mathew** and I'm a 4th year Computing Science student at SFU
 - I’m currently working on improving my skills with **Full Stack Development**.
-- I'm also learning more about **Pandas** and **Data Science**.
+- I'm also learning more about **Machine Learning**, **Apache Spark**, **Pandas** and **Data Science**.
 - Feel free to visit my projects!
 
 <!--
